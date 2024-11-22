@@ -1,6 +1,6 @@
 # crop_recommendation_system
 
-Run the training_testing.ipynb notebook
+Run the training_testing_code.ipynb notebook
 
 # About
 
